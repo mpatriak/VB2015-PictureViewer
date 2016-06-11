@@ -1,0 +1,2 @@
+C:\Users\Michal\AppData\Local\Temporary Projects\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+C:\Users\Michal\Documents\GitHub\VB2015-PictureViewer\Picture Viewer\bin\Debug\Picture Viewer.exe.config
