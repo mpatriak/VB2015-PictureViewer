@@ -1,2 +1,12 @@
 C:\Users\Michal\AppData\Local\Temporary Projects\Picture Viewer\bin\Debug\Picture Viewer.exe.config
 C:\Users\Michal\Documents\GitHub\VB2015-PictureViewer\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+C:\Users\Michal\Documents\GitHub\VB2015-PictureViewer\Picture Viewer\obj\Debug\Picture Viewer.vbprojResolveAssemblyReference.cache
+C:\Users\Michal\Documents\GitHub\VB2015-PictureViewer\Picture Viewer\obj\Debug\Picture_Viewer.ViewerForm.resources
+C:\Users\Michal\Documents\GitHub\VB2015-PictureViewer\Picture Viewer\obj\Debug\Picture_Viewer.Resources.resources
+C:\Users\Michal\Documents\GitHub\VB2015-PictureViewer\Picture Viewer\obj\Debug\Picture Viewer.vbproj.GenerateResource.Cache
+C:\Users\Michal\Documents\GitHub\VB2015-PictureViewer\Picture Viewer\obj\Debug\Picture Viewer.xml
+C:\Users\Michal\Documents\GitHub\VB2015-PictureViewer\Picture Viewer\bin\Debug\Picture Viewer.exe
+C:\Users\Michal\Documents\GitHub\VB2015-PictureViewer\Picture Viewer\bin\Debug\Picture Viewer.pdb
+C:\Users\Michal\Documents\GitHub\VB2015-PictureViewer\Picture Viewer\bin\Debug\Picture Viewer.xml
+C:\Users\Michal\Documents\GitHub\VB2015-PictureViewer\Picture Viewer\obj\Debug\Picture Viewer.exe
+C:\Users\Michal\Documents\GitHub\VB2015-PictureViewer\Picture Viewer\obj\Debug\Picture Viewer.pdb
