@@ -72,6 +72,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="OptionForm.Designer.vb">
+      <DependentUpon>OptionForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OptionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="ViewerForm.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -96,6 +102,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="OptionForm.resx">
+      <DependentUpon>OptionForm.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ViewerForm.resx">
       <DependentUpon>ViewerForm.vb</DependentUpon>
     </EmbeddedResource>

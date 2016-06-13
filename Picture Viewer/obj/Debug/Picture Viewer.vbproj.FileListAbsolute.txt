@@ -10,3 +10,4 @@ C:\Users\Michal\Documents\GitHub\VB2015-PictureViewer\Picture Viewer\bin\Debug\P
 C:\Users\Michal\Documents\GitHub\VB2015-PictureViewer\Picture Viewer\bin\Debug\Picture Viewer.xml
 C:\Users\Michal\Documents\GitHub\VB2015-PictureViewer\Picture Viewer\obj\Debug\Picture Viewer.exe
 C:\Users\Michal\Documents\GitHub\VB2015-PictureViewer\Picture Viewer\obj\Debug\Picture Viewer.pdb
+C:\Users\Michal\Documents\GitHub\VB2015-PictureViewer\Picture Viewer\obj\Debug\Picture_Viewer.OptionForm.resources
