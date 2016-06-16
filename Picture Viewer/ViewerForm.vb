@@ -54,4 +54,70 @@
     Private Sub btnOptions_Click(sender As Object, e As EventArgs) Handles btnOptions.Click
         OptionForm.ShowDialog()
     End Sub
+
+    Private Sub mnOpenPicture_Click(sender As Object, e As EventArgs) Handles mnOpenPicture.Click
+        ' Show the open file dialog box.
+        If ofdSelectPicture.ShowDialog = DialogResult.OK Then
+            ' Load the picture into the picture box.
+            picShowPicture.Image = Image.FromFile(ofdSelectPicture.FileName)
+            ' Show the name of the fie in the form's caption.
+            Me.Text = "Picture Viewer (" & ofdSelectPicture.FileName & ")"
+        End If
+    End Sub
+
+    Private Sub mnuConfirmOnExit_Click(sender As Object, e As EventArgs) Handles mnuConfirmOnExit.Click
+        mnuConfirmOnExit.Checked = Not (mnuConfirmOnExit.Checked)
+    End Sub
+
+    Private Sub mnuQuit_Click(sender As Object, e As EventArgs) Handles mnuQuit.Click
+        Me.Close()
+    End Sub
+
+    Private Sub mnuDrawBorder_Click(sender As Object, e As EventArgs) Handles mnuDrawBorder.Click
+        Dim objGraphics As Graphics
+        objGraphics = Me.CreateGraphics
+        ' Clears the graphic surface with a user-chosen system color.
+        objGraphics.Clear(SystemColors.Control)
+        ' Draws a blue border around the picture box.
+        objGraphics.DrawRectangle(Pens.Blue, picShowPicture.Left - 1, picShowPicture.Top - 1, picShowPicture.Width + 1, picShowPicture.Height + 1)
+        objGraphics.Dispose()
+    End Sub
+
+    Private Sub mnuOptions_Click(sender As Object, e As EventArgs) Handles mnuOptions.Click
+        OptionForm.ShowDialog()
+    End Sub
+
+    Private Sub DrawBorderToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles DrawBorderToolStripMenuItem.Click
+        Dim objGraphics As Graphics
+        objGraphics = Me.CreateGraphics
+        ' Clears the graphic surface with a user-chosen system color.
+        objGraphics.Clear(SystemColors.Control)
+        ' Draws a blue border around the picture box.
+        objGraphics.DrawRectangle(Pens.Blue, picShowPicture.Left - 1, picShowPicture.Top - 1, picShowPicture.Width + 1, picShowPicture.Height + 1)
+        objGraphics.Dispose()
+    End Sub
+
+    Private Sub tbbOpenPicture_Click(sender As Object, e As EventArgs) Handles tbbOpenPicture.Click
+        ' Show the open file dialog box.
+        If ofdSelectPicture.ShowDialog = DialogResult.OK Then
+            ' Load the picture into the picture box.
+            picShowPicture.Image = Image.FromFile(ofdSelectPicture.FileName)
+            ' Show the name of the file in the form's caption.
+            Me.Text = "Picture Viewer(" & ofdSelectPicture.FileName & ")"
+        End If
+    End Sub
+
+    Private Sub tbbDrawBorder_Click(sender As Object, e As EventArgs) Handles tbbDrawBorder.Click
+        Dim objGraphics As Graphics
+        objGraphics = Me.CreateGraphics
+        ' Clears the graphic surface with a user-chosen system color.
+        objGraphics.Clear(SystemColors.Control)
+        ' Draws a blue border around the picture box.
+        objGraphics.DrawRectangle(Pens.Blue, picShowPicture.Left - 1, picShowPicture.Top - 1, picShowPicture.Width + 1, picShowPicture.Height + 1)
+        objGraphics.Dispose()
+    End Sub
+
+    Private Sub tbbOptions_Click(sender As Object, e As EventArgs) Handles tbbOptions.Click
+        OptionForm.ShowDialog()
+    End Sub
 End Class

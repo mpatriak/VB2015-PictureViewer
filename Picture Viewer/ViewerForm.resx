@@ -117,10 +117,57 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <metadata name="mnuPictureContext.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>292, 17</value>
+  </metadata>
   <metadata name="ofdSelectPicture.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <metadata name="mnuMainMenu.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>157, 17</value>
+  </metadata>
+  <metadata name="tbrMainToolbar.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>448, 17</value>
+  </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="tbbOpenPicture.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF9SURBVDhPvZExS8NAGIbzEzI63k/I6JixOGUS3bIIHSMu
+        XZQTEYrTDVbb7cYOlp5bB8WISweRA0XFKaPj/YPX77tca0IrOIgHD4TLPe/75RL925JKQ/aJocHgao6w
+        /buV9xTOJ3Ypcdjg+hW8Hz2+fMCM1Qo393c/toymb8i6yhPx4cpqOGc8cBr41DCaQh5u14Ys5DqADjqS
+        mrLnvYCmd3ooa5SEYvpFO9QHsNCSJZGvZSWAW3xAoDTKs7wPLT3NSfw0/TANb7pKebma02GSUNEEP0Gf
+        xthxhuOTs0YAwXI5o2d/qDG6ZTJgnsHNUlQ6wcHeFi4mTxRA4zj65la7DQFeJFgsUy87k0B2BY4O9+u7
+        8AG2lm0Z2hsiyrqVRTdOYPsx8o7ApXmuA/gybNlsD+KiNYiVFrAq9u3bu/n3n+Cb5F9pDV2MipaUDLUZ
+        WaN7AqoQvv10NG0HKJlD9ogiQ5FnyHdSZJ0U6WaCJBFIhIDYiBHHMQQR1L9YUfQFjQbzWGZDapAAAAAA
+        SUVORK5CYII=
+</value>
+  </data>
+  <data name="tbbDrawBorder.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEiSURBVDhPrZM9SwMxGIDf0Z/g2J/QRa0WpIqCIMghCIKD
+        8Qscb3TMT7ix4FcEwaIgEQRBEG7wo3Xq2LGjY//BY9IeGtqqV/WBG5Lc81yOEPkf9l6R7Rdk8xHZSJH1
+        B2TtHlm9Q1ZukeUbZOkaWbhE5i6Q2XOkfEZmO3xgVMomcHYbowdm/hw4DZyd+pcBoyLMvhpcn84RMJUi
+        1DTtA4V1Tzbdo3QSjP0J9JHWYpIWdLSTdYweL+QPmKoCLLQidM1ixvpkz9RxMLf1/DEwSdSV26miU+9u
+        e1D2DAsY7f6ZtCc3v5E9k0fBmnrC6EJ+2RMGdNWSWg1v2m07+ln2TBx+vpMkxn0dmraST/aEgTiOKZYy
+        edglWrxC5oNL5I8wDPwekXcrF8uukRkd6AAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="tbbOptions.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEKSURBVDhPrZIhj8JAEIX7UyqR/ITKk0hkZWV/wsmTK5Er
+        K9fAIdeBHIncBINceW5u3nQgNMcWEu5LJpvN9r2ZeWn1r4SY+G8Rhz2xD8TfhzPbp4+BoIQfIi8/Wt7N
+        maBbCScG8Uhqsi2ZYNQSzgcVX8skU7wZ+CFwvVhyCEHvV8Y8xlVMMgVBgXpRMxHxat3qHd3dxuv5xCCq
+        AJ2bptGPQUqJ6SRF6RamSabg8RH5R0wuWYzyLQuTTEHSAOP3Xa+dIc5ZxGJAp6wTNKuSgbiDtrPdN07E
+        OD1/Oqkvpz/VUwN09iLK0hXdsX88joWcyiuYgXI/uuyOAGEwn4EZ4JyrWQM8vlImeZeq+gU5MNqSIxpj
+        dAAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <metadata name="sbrMyStatusStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>584, 17</value>
+  </metadata>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAABAAEAICAAAAAAAACoCAAAFgAAACgAAAAgAAAAQAAAAAEACAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA
